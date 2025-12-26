@@ -14,7 +14,7 @@
 
 ## Summary
 
-Experienced in Java Angular Full Stack Development with 3.8+ years of hands-on expertise. Proficient in front-end and back-end development, adept at problem-solving, and dedicated to delivering top-tier solutions. For details, click [here](#).
+Experienced in Java Angular Full Stack Development with 4.2+ years of hands-on expertise. Proficient in front-end and back-end development, adept at problem-solving, and dedicated to delivering top-tier solutions. For details, click [here](#).
 
 ---
 
